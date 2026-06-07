@@ -1,3 +1,4 @@
+[UPM_계획서.pdf](https://github.com/user-attachments/files/28680179/UPM_.pdf)
 [![UPM Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=UPM%20Universal%20PC%20Manager&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Desktop%20Resource%20Optimization%20%7C%20Hardware%20Control%20%7C%20Cloud%20Management&descSize=16&descAlignY=58)](https://github.com/your-org/upm)
 
 <br/>
@@ -147,7 +148,7 @@ UPM은 **Windows PC의 리소스를 실시간 모니터링·최적화**하고, �
 
 ## 프로젝트 계획서
 
-[📎 UPM 프로젝트 계획서]
+[📎 UPM 프로젝트 계획서](https://github.com/user-attachments/files/28680180/UPM_.pdf)
 
 
 ## 프로젝트 최종 발표
