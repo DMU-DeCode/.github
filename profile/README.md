@@ -1,5 +1,3 @@
-[UPM-Universal-PC-Manager.pdf](https://github.com/user-attachments/files/28680115/UPM-Universal-PC-Manager.pdf)# UPM (Universal PC Manager)
-
 [![UPM Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=UPM%20Universal%20PC%20Manager&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Desktop%20Resource%20Optimization%20%7C%20Hardware%20Control%20%7C%20Cloud%20Management&descSize=16&descAlignY=58)](https://github.com/your-org/upm)
 
 <br/>
@@ -158,9 +156,7 @@ UPM은 **Windows PC의 리소스를 실시간 모니터링·최적화**하고, �
 
 ## 시연 영상
 
-[![YouTube]]
-
-[▶️ UPM 시연 영상 보러가기](https://www.youtube.com/watch?v=0ygYTmQmkrU)
+[![YouTube ▶️ UPM 시연 영상 보러가기](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0ygYTmQmkrU)
 
 
 ---
